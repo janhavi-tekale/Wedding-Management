@@ -118,16 +118,6 @@ To fill the marketplace with sample vendors, run `php/seed-demo-vendors.php` onc
 
 ---
 
-## Screenshots
-
-Add real screenshots to `docs/screenshots/` and link them here:
-
-| Home | Customer Dashboard | Vendor Marketplace |
-|---|---|---|
-| ![Home](docs/screenshots/home.png) | ![Dashboard](docs/screenshots/dashboard.png) | ![Vendors](docs/screenshots/vendors.png) |
-
----
-
 ## Database Overview
 
 Main tables: `users`, `events`, `event_services`, `guests`, `expenses`, `vendors`, `vendor_profiles`, `vendor_images`, `vendor_enquiries`, `vendor_shortlists`, `bookings`, `reviews`.
